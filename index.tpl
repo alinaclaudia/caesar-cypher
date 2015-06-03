@@ -29,7 +29,7 @@
 		<option {NOT_ENCRYPT}>decrypt</option>
 	</select>
 	<input type="submit" value="Submit"/>
-	<input type="text" disabled value="github.com/alinaclaudia06"/> 
+	<input type="text" disabled value="github.com/alinaclaudia"/> 
 </form>
 </body>
 </html>
